@@ -1,0 +1,358 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.3.6:Release",
+  "fileList": {
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1748937963036.609,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1748942063581.5647,
+      "children": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\CO2Page.ets",
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\WeatherPage.ets",
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\PressurePage.ets",
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\LocationPage.ets",
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\FanControlPage.ets",
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\AlarmControlPage.ets",
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\DeepSeekPage.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\CO2Page.ets": {
+      "mtimeMs": 1748941917598.9988,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\WeatherPage.ets": {
+      "mtimeMs": 1748942055353.7935,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\PressurePage.ets": {
+      "mtimeMs": 1748942023912.521,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\LocationPage.ets": {
+      "mtimeMs": 1748941994347.4104,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\FanControlPage.ets": {
+      "mtimeMs": 1748941961033.2256,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\AlarmControlPage.ets": {
+      "mtimeMs": 1748941897244.4258,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\DeepSeekPage.ets": {
+      "mtimeMs": 1748941938622.4873,
+      "children": [],
+      "parent": [
+        "E:\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.net.http.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\SDK\\openharmony\\9\\ets\\api\\@ohos.prompt.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1748937963000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1751875277781.957,
+      "children": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\CO2Page.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\WeatherPage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\PressurePage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\FanControlPage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\AlarmControlPage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\DeepSeekPage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\LEDPage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\InfraredPage.ets",
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\WaterSensorPage.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\CO2Page.ets": {
+      "mtimeMs": 1751873599023.1326,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\WeatherPage.ets": {
+      "mtimeMs": 1751873586770.3757,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\PressurePage.ets": {
+      "mtimeMs": 1751873623630.0527,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\LocationPage.ets": {
+      "mtimeMs": 1751634011236.378,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\FanControlPage.ets": {
+      "mtimeMs": 1751873475615.9434,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\AlarmControlPage.ets": {
+      "mtimeMs": 1751875140914.1304,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\DeepSeekPage.ets": {
+      "mtimeMs": 1751882665464.6174,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\LEDPage.ets": {
+      "mtimeMs": 1751873617796.2566,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\InfraredPage.ets": {
+      "mtimeMs": 1751873609575.331,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\WaterSensorPage.ets": {
+      "mtimeMs": 1751873565580.611,
+      "children": [],
+      "parent": [
+        "C:\\Users\\86152\\Desktop\\DevEcoProject\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    }
+  }
+}
