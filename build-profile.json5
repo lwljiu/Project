@@ -1,0 +1,49 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\86152\\.ohos\\config\\auto_debug_DevEcoProject_com.example.myapplication_30086000786641203.cer",
+          "storePassword": "0000001B33C63E8F149E711A275CB1D3EE7DDAFFB56C6DF6742575EC0B725B701D9A2AC2177191023E3900",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B8599F7AC032EF557FE86F66472A5C6AD24CDC0BDF1D48F0E5B975A8D6BE38D10DFF475D0A847DB",
+          "profile": "C:\\Users\\86152\\.ohos\\config\\auto_debug_DevEcoProject_com.example.myapplication_30086000786641203.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\86152\\.ohos\\config\\auto_debug_DevEcoProject_com.example.myapplication_30086000786641203.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
